@@ -13,7 +13,13 @@ Once everything is set up, open a new terminal window in the workspace by clicki
 cd 3a_python_package
 pip install .
 
+![image1](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MAKING-A-PACKAGE-AND-PIP-INSTALLING/master/Sin%20t%C3%ADtulo1.jpg)
 
+![image2](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MAKING-A-PACKAGE-AND-PIP-INSTALLING/master/Sin%20t%C3%ADtulo2.jpg)
+
+![image3](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MAKING-A-PACKAGE-AND-PIP-INSTALLING/master/Sin%20t%C3%ADtulo3.jpg)
+
+![image4](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MAKING-A-PACKAGE-AND-PIP-INSTALLING/master/Sin%20t%C3%ADtulo4.jpg)
 
 If everything is set up correctly, pip will install the distributions package into the workspace. You can then start the python interpreter from the terminal typing:
 python
