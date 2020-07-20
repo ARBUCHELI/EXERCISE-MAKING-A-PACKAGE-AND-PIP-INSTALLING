@@ -32,7 +32,7 @@ gaussian_one + gaussian_one
 
 etcetera...In other words, you can import and use the Gaussian class because the distributions package is now officially installed as part of your Python installation.
 
-![image]( )
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-MAKING-A-PACKAGE-AND-PIP-INSTALLING/master/Sin%20t%C3%ADtulo.jpg)
 
 If you want to install the Python package locally to your computer, you might want to set up a virtual environment first. A virtual environment is a siloed Python installation apart from your main Python installation. That way you can easily delete the virtual enviornment without affecting your Python installation.
 
