@@ -13,6 +13,8 @@ Once everything is set up, open a new terminal window in the workspace by clicki
 cd 3a_python_package
 pip install .
 
+
+
 If everything is set up correctly, pip will install the distributions package into the workspace. You can then start the python interpreter from the terminal typing:
 python
 
